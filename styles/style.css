@@ -7,6 +7,14 @@
   font-style: normal;
 }
 /* shared styles */
+a, button
+{
+    cursor: pointer;
+}
+button:hover
+{
+    background-color: #424242;
+}
 *{
     margin: 0;
     padding: 0;
